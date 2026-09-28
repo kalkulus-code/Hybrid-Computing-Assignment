@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Generated Python cache
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
