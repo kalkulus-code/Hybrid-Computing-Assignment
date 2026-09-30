@@ -33,6 +33,3 @@ python code/prepare_b3_dataset.py
 python code/b3_global_wordcount.py --workers 4
 ```
 Dataset diambil dari Project Gutenberg dan dipecah menjadi 30 file teks nyata.
-
-## Catatan penting
-Angka benchmark yang dimasukkan ke laporan harus berasal dari run pada laptop mahasiswa sendiri. Jangan menyalin angka dari komputer lain. Screenshot terminal/output wajib dibuat setelah menjalankan program.
